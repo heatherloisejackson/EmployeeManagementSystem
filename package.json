@@ -1,0 +1,25 @@
+{
+  "name": "employeemanagementsystem",
+  "version": "1.0.0",
+  "description": "A command-line application that uses MySQL to create and maintain employees, roles, and departments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heatherloisejackson/EmployeeManagementSystem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heatherloisejackson/EmployeeManagementSystem/issues"
+  },
+  "homepage": "https://github.com/heatherloisejackson/EmployeeManagementSystem#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^9.0.2",
+    "inquirer": "^8.0.0",
+    "mysql2": "^2.2.5"
+  }
+}
