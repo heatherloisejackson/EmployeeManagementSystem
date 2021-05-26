@@ -10,6 +10,8 @@ Clone this application onto your machine through GitHub, then open it in the com
 ## Usage
 Here is a screenshot of the application:
 
+![Screenshot Demo](https://github.com/heatherloisejackson/EmployeeManagementSystem/blob/main/EMS%20App%20Demo.png)
+
 Here is a link to a screen-recording of a demo of the application:
 
 
