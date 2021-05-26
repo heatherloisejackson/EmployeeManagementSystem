@@ -5,7 +5,7 @@ A command-line application that uses MySQL to create and maintain employees, rol
 This Management System is built to be a great asset to business owners that want to be able to view and manage the departments, roles, and employees in their company so that they can organize and plan their business. This application is easy to use for business owners, prompting a list of actions and required answers to do things like view, add, and update employees in their directory. Using JavaScript and MySQL, this application is evidence of undertanding MySQL Workbench, which is a great skill to have in regards to maintaining and displaying databases of information commonly used by all aspects of any business.
 
 ## Installation
-Clone this application onto your machine through GitHub, then open it in the command line and run the command "npm install" to make sure all the features are installed for the application locally. Still within the application on the command line, run the command "node index.js" to begin.
+Clone this application onto your machine through GitHub, then open it in the command line and run the command "npm install" to make sure all the features are installed for the application locally. Still within the application on the command line, run the command "node index.js" to begin. Run the Schema in MySQL Workbench, as well as a seeds.sql document if you have directory information to prepopulate.
 
 ## Usage
 Here is a screenshot of the application:
