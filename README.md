@@ -12,7 +12,7 @@ Here is a screenshot of the application:
 
 ![Screenshot Demo](https://github.com/heatherloisejackson/EmployeeManagementSystem/blob/main/EMS%20App%20Demo.png)
 
-Here is a link to a screen-recording of a demo of the application:
+Here is a link to a screen-recording of a demo of the application: [Demo.mov](https://drive.google.com/file/d/18hnUhs02a1WeCajlpU6igZw3p32M2uUC/view?usp=sharing)
 
 
 ## Credits
